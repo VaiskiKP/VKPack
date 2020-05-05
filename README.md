@@ -28,13 +28,13 @@ This is a repository containing my first LU texture pack. This is still WIP. Wil
 
 - A Custom hotbat / skillbar
 
-- A Custom chatbox and quickchat icons
-
-- A Custom opendock icons
-
 - A Custom Purgatory Realm style login menu
 
 - A "VM" branded cape
+
+- Custom chatbox and quickchat icons
+
+- Custom opendock icons
 
 ### Work In Progress
 
@@ -42,11 +42,11 @@ This is a repository containing my first LU texture pack. This is still WIP. Wil
 
 ### Future plans
 
+- Audio stuff (not likely as the audio is a whole new world of complicated)
+
 - Custom clothes
 
 - More colors for clothes
-
-- Audio stuff (not likely as the audio is a whole new world of complicated)
 
 (Note: If you have any ideas for what else I could change in the future send them them to me. I will notice them the fastest if you send them through discord)
 
