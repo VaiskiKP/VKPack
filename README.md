@@ -4,7 +4,7 @@ This is a repository containing my first LU texture pack. This is still WIP. Wil
 
 ## Screenshots
 
-### Frontend
+### Frontend [WIP]
 ![](https://github.com/VaiskiKP/VKPack/blob/master/readme%20stuff/frontend%20rn.PNG?raw=true)
 
 ### Ingame UI
