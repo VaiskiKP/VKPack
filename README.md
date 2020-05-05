@@ -2,6 +2,22 @@
 This is a repository containing my first LU texture pack. This is still WIP. Will add a tutorial here later
 
 
+## Screenshots
+
+### Frontend
+![](https://github.com/VaiskiKP/VKPack/blob/master/readme%20stuff/frontend%20rn.PNG?raw=true)
+
+### Ingame UI
+
+#### Everything minimised
+![](https://github.com/VaiskiKP/VKPack/blob/master/readme%20stuff/ingame%201.PNG?raw=true)
+
+#### Everything open
+![](https://github.com/VaiskiKP/VKPack/blob/master/readme%20stuff/ingame%202.PNG?raw=true)
+
+### Chatbubble
+![](https://github.com/VaiskiKP/VKPack/blob/master/readme%20stuff/ingame%203.png?raw=true)
+
 ## Install tutorial
 
 ### Prerequisites
