@@ -25,6 +25,38 @@ This is a texture pack **not** a server or a full LU client. You still need to g
 
 Before you continue, I'd recommed you to set up the server and the client.
 
+### Future plan / what is included
+
+#### Included
+
+- A crosshair
+
+- A Custom chatbox
+
+- A Custom hotbat / skillbar
+
+- A Custom chatbox and quickchat icons
+
+- A Custom opendock icons
+
+- A Custom Purgatory Realm style login menu
+
+- A "VM" branded cape
+
+#### Work In Progress
+
+- A improved custom login menu
+
+#### Future plans
+
+- Custom clothes
+
+- More colors for clothes
+
+- Audio stuff (not likely as the audio is a whole new world of complicated)
+
+(Note: If you have any ideas for what else I could change in the future send them them to me. I will notice them the fastest if you send them through discord)
+
 ### Actual tutorial
 
 #### 1. Open the client folder and the texture pack folder
