@@ -18,16 +18,9 @@ This is a repository containing my first LU texture pack. This is still WIP. Wil
 ### Chatbubble
 ![](https://github.com/VaiskiKP/VKPack/blob/master/readme%20stuff/ingame%203.png?raw=true)
 
-## Install tutorial
+## Future plan / what is included
 
-### Prerequisites
-This is a texture pack **not** a server or a full LU client. You still need to get those to use this texture pack. The server I use is [uchu](https://github.com/yuwui/Uchu). For the texture pack you need specifically a unpacked client. The one I use is the [lcdr's unpacked client](https://mega.nz/file/zhRzBa4C#B5eY94-6vYmjJYqXkDXDM5hiqkPhZ7yb9ShCHG3Lgo8).
-
-Before you continue, I'd recommed you to set up the server and the client.
-
-### Future plan / what is included
-
-#### Included
+### Included
 
 - A crosshair
 
@@ -43,11 +36,11 @@ Before you continue, I'd recommed you to set up the server and the client.
 
 - A "VM" branded cape
 
-#### Work In Progress
+### Work In Progress
 
 - A improved custom login menu
 
-#### Future plans
+### Future plans
 
 - Custom clothes
 
@@ -56,6 +49,13 @@ Before you continue, I'd recommed you to set up the server and the client.
 - Audio stuff (not likely as the audio is a whole new world of complicated)
 
 (Note: If you have any ideas for what else I could change in the future send them them to me. I will notice them the fastest if you send them through discord)
+
+## Install tutorial
+
+### Prerequisites
+This is a texture pack **not** a server or a full LU client. You still need to get those to use this texture pack. The server I use is [uchu](https://github.com/yuwui/Uchu). For the texture pack you need specifically a unpacked client. The one I use is the [lcdr's unpacked client](https://mega.nz/file/zhRzBa4C#B5eY94-6vYmjJYqXkDXDM5hiqkPhZ7yb9ShCHG3Lgo8).
+
+Before you continue, I'd recommed you to set up the server and the client.
 
 ### Actual tutorial
 
