@@ -18,4 +18,4 @@ Before you continue, I'd recommed you to set up the server and the client.
 ![](https://github.com/VaiskiKP/VKPack/blob/master/readme%20stuff/tutorial%20screenshot2.PNG?raw=true)
 
 #### 3. Paste the texture packs res folder into the where you have your client
-If you are on windows you will be asked if you want to replace files. Say yes to all.
+If you are on windows you will be asked if you want to replace files. Say yes to all. I don't know how any of this works on linux or mac so you have to sadly figure this out yourself.
