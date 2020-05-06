@@ -1,0 +1,1 @@
+to change to one of the capes select the cape you want and copy the "cape_01.dds" file in its folder and replace the "cape_01.dds" at res/mesh/accessories
