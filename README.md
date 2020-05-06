@@ -34,7 +34,7 @@ This is a repository containing my first LU texture pack. This is still WIP. Wil
 
 - Custom opendock icons
 
-- Multiple custom capes
+- [Multiple custom capes](https://github.com/VaiskiKP/VKPack/tree/master/variables/capes)
 
 ### Work In Progress
 

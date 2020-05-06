@@ -1,6 +1,6 @@
 # Capes
 
-## The currently these capes are included:
+## Currently these capes are included:
 
 ### DLU Cape
 ![](https://github.com/VaiskiKP/VKPack/blob/master/variables/capes/DLU%20Cape/preview.PNG?raw=true)
@@ -14,7 +14,8 @@
 ### NinjaOfLU Inspired Cape
 ![](https://github.com/VaiskiKP/VKPack/blob/master/variables/capes/NinjaOfLU%20Inspired%20Cape/preview.PNG?raw=true)
 
-ADD OPCRUX HERE
+### OpCrux
+![](https://github.com/VaiskiKP/VKPack/blob/master/variables/capes/OpCrux%20Cape/preview.PNG?raw=true)
 
 ### Uchu Cape
 ![](https://github.com/VaiskiKP/VKPack/blob/master/variables/capes/Uchu%20Cape/preview.PNG?raw=true)
@@ -24,3 +25,5 @@ ADD OPCRUX HERE
 
 ### lcdrU Cape
 ![](https://github.com/VaiskiKP/VKPack/blob/master/variables/capes/lcdrU%20Cape/preview.PNG?raw=true)
+
+For a tutorial for the setup look for a tutorial.txt in the "capes" folder.
