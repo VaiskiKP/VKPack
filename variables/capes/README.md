@@ -26,4 +26,4 @@
 ### lcdrU Cape
 ![](https://github.com/VaiskiKP/VKPack/blob/master/variables/capes/lcdrU%20Cape/preview.PNG?raw=true)
 
-For a tutorial for the setup look for a tutorial.txt in the "capes folder".
+For a tutorial for the setup look for a tutorial.txt in the "capes" folder.
