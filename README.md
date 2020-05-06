@@ -36,6 +36,8 @@ This is a repository containing my first LU texture pack. This is still WIP. Wil
 
 - Custom opendock icons
 
+- Multiple custom capes
+
 ### Work In Progress
 
 - A improved custom login menu
