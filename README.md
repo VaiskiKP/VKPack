@@ -36,6 +36,8 @@ This is a repository containing my first LU texture pack. This is still WIP. Wil
 
 - [Multiple custom capes](https://github.com/VaiskiKP/VKPack/tree/master/variables/capes)
 
+- Small .fdb mods to enable stuff like a rainbow cape
+
 ### Work In Progress
 
 - A improved custom login menu
