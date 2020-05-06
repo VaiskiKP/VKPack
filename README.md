@@ -30,8 +30,6 @@ This is a repository containing my first LU texture pack. This is still WIP. Wil
 
 - A Custom Purgatory Realm style login menu
 
-- A "VM" branded cape
-
 - Custom chatbox and quickchat icons
 
 - Custom opendock icons
