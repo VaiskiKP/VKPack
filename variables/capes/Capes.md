@@ -14,7 +14,8 @@
 ### NinjaOfLU Inspired Cape
 ![](https://github.com/VaiskiKP/VKPack/blob/master/variables/capes/NinjaOfLU%20Inspired%20Cape/preview.PNG?raw=true)
 
-ADD OPCRUX HERE
+### OpCrux
+![](https://github.com/VaiskiKP/VKPack/blob/master/variables/capes/OpCrux%20Cape/preview.PNG?raw=true)
 
 ### Uchu Cape
 ![](https://github.com/VaiskiKP/VKPack/blob/master/variables/capes/Uchu%20Cape/preview.PNG?raw=true)
