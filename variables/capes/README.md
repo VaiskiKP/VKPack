@@ -1,6 +1,6 @@
 # Capes
 
-## The currently these capes are included:
+## Currently these capes are included:
 
 ### DLU Cape
 ![](https://github.com/VaiskiKP/VKPack/blob/master/variables/capes/DLU%20Cape/preview.PNG?raw=true)
