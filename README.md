@@ -2,6 +2,54 @@
 This is a repository containing my first LU texture pack. This is still WIP. Will add a tutorial here later
 
 
+## Screenshots
+
+### Frontend [WIP]
+![](https://github.com/VaiskiKP/VKPack/blob/master/readme%20stuff/frontend%20rn.PNG?raw=true)
+
+### Ingame UI
+
+#### Everything minimised
+![](https://github.com/VaiskiKP/VKPack/blob/master/readme%20stuff/ingame%201.PNG?raw=true)
+
+#### Everything open
+![](https://github.com/VaiskiKP/VKPack/blob/master/readme%20stuff/ingame%202.PNG?raw=true)
+
+### Chatbubble
+![](https://github.com/VaiskiKP/VKPack/blob/master/readme%20stuff/ingame%203.png?raw=true)
+
+## Future plan / what is included
+
+### Included
+
+- A crosshair
+
+- A Custom chatbox
+
+- A Custom hotbat / skillbar
+
+- A Custom Purgatory Realm style login menu
+
+- A "VM" branded cape
+
+- Custom chatbox and quickchat icons
+
+- Custom opendock icons
+
+### Work In Progress
+
+- A improved custom login menu
+
+### Future plans
+
+- Audio stuff (not likely as the audio is a whole new world of complicated)
+
+- Custom clothes
+
+- More colors for clothes
+
+(Note: If you have any ideas for what else I could change in the future send them them to me. I will notice them the fastest if you send them through discord)
+
 ## Install tutorial
 
 ### Prerequisites
