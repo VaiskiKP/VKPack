@@ -36,6 +36,8 @@ This is a repository containing my first LU texture pack. This is still WIP. Wil
 
 - [Multiple custom capes](https://github.com/VaiskiKP/VKPack/tree/master/variables/capes)
 
+- Small cdclient.fdb mods to enable stuff like a rainbow cape
+
 ### Work In Progress
 
 - A improved custom login menu
@@ -67,3 +69,7 @@ Before you continue, I'd recommed you to set up the server and the client.
 
 #### 3. Paste the texture packs res folder into the where you have your client
 If you are on windows you will be asked if you want to replace files. Say yes to all. I don't know how any of this works on linux or mac so you have to sadly figure this out yourself.
+
+
+
+Special thanks to NinjaOfLU, Funkyoogaman, Encry and Hacronium for helping me with this project
