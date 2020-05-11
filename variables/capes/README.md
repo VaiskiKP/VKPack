@@ -5,8 +5,14 @@
 ### Bob-Cult Cape
 ![](https://github.com/VaiskiKP/VKPack/blob/master/variables/capes/Bob-Cult%20Cape/Preview.png?raw=true)
 
+### Camouflage Venture Leaque Cape
+![](https://github.com/VaiskiKP/VKPack/blob/master/variables/capes/Camouflage%20Cape/Preview.png?raw=true)
+
 ### DLU Cape
 ![](https://github.com/VaiskiKP/VKPack/blob/master/variables/capes/DLU%20Cape/preview.PNG?raw=true)
+
+### lcdrU Cape
+![](https://github.com/VaiskiKP/VKPack/blob/master/variables/capes/lcdrU%20Cape/preview.PNG?raw=true)
 
 ### Markiplier Cape
 ![](https://github.com/VaiskiKP/VKPack/blob/master/variables/capes/Markiplier%20Cape/preview.PNG?raw=true)
@@ -38,7 +44,5 @@
 ### VM Cape
 ![](https://github.com/VaiskiKP/VKPack/blob/master/variables/capes/VM%20Cape/preview.PNG?raw=true)
 
-### lcdrU Cape
-![](https://github.com/VaiskiKP/VKPack/blob/master/variables/capes/lcdrU%20Cape/preview.PNG?raw=true)
 
 For a tutorial for the setup look for a tutorial.txt in the "capes" folder.
