@@ -1,5 +1,7 @@
 # Capes
 
+extra thanks for Harcronium for helping me with the Bob-Cult Cape and for giving the inspiration for the Camouflage Cape!
+
 ## Currently these capes are included:
 
 ### Bob-Cult Cape
