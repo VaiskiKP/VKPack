@@ -2,6 +2,9 @@
 
 ## Currently these capes are included:
 
+### Bob-Cult Cape
+![](https://github.com/VaiskiKP/VKPack/blob/master/variables/capes/Bob-Cult%20Cape/Preview.png?raw=true)
+
 ### DLU Cape
 ![](https://github.com/VaiskiKP/VKPack/blob/master/variables/capes/DLU%20Cape/preview.PNG?raw=true)
 
